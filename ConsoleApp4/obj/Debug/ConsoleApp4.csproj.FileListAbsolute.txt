@@ -1,0 +1,6 @@
+U:\Пучков Д\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+U:\Пучков Д\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+U:\Пучков Д\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+U:\Пучков Д\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+U:\Пучков Д\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+U:\Пучков Д\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
